@@ -1,0 +1,81 @@
+# CatalinaMorales
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>[Rebecca Coder]</title>
+</head>
+<body background="1.jpg" bgcolor="white" link="blue" alink="blue" vlink="blue">
+
+<!--Links at the top-->	
+	<h3 id="top" align="center"><font face="courier" size="4"><b>
+			<a href="#about">ABOUT</a>&nbsp;&nbsp;&nbsp;
+			<a href="#experience">EXPERIENCE</a>&nbsp;&nbsp;&nbsp;
+			<a href="#interests">INTERESTS</a>&nbsp;&nbsp;&nbsp;
+			<a href="[URL]">[SOCIAL]</a>&nbsp;&nbsp;&nbsp;
+			<a href="[URL]">LINKEDIN</a>
+	</b></font></h3><br>
+
+<!--Introduction with picture-->
+	<table bgcolor="white" width="90%" align="center"><tr>
+	    <td><img src="mr-pants-with-hat.png" height="150"></td>
+	    <td><h4><font face="arial" size="4">Hello, world. I am Catalina Morales. I am currently a highschool senior with a high interest in human resources.
+</font></h4></td>
+	</tr></table><br>
+
+<!--About Me-->
+	<h1 id="about" align="center"><font face="helvetica" color="blue" size="5">
+		About Me
+	</font></h1>
+	<font face="helvetica" color="black" size="3">
+		I am a high school senior from the Bronx, New York with a goal of going to college and getting a masters degree. Things that motivate me to do this is my family and personal drive considering I want the best for my future family.
+	</font><br><br><br>
+
+<!--My Experience-->
+	<h1 id="experience" align="center"><font face="helvetica" color="blue" size="5">
+		Experience
+	</font></h1>
+	<font face="helvetica" color="black" size="3">
+		<ul>
+		    <li>My work experience includes Career Apprenticeship Program where I interned as a Main Office Assistant, Data & Attendance Coordinator, and Community School Intern.
+</li>
+		    <li>My Volunteer Experience includes Bulletin Board Decorating, Garbage pick up, and God’s Love we Deliver
+</li>
+		    <li>My Soft skills include communication skills, time management, problem solving, and empathy. 
+</li>
+		    <li>My Hard skills include spanish language, HTML, google slides, canva, and photoshop. 
+</li>    
+		</ul>
+	</font><br>
+	
+<!--Interests-->
+	<h1 id="interests" align="center"><font face="helvetica" color="blue" size="5">
+		Interests
+	</font></h1>
+	<font face="helvetica" color="black" size="3">
+		My interests include Music, Travel, Baking, and Volleyball.
+	</font><br><br><br>
+
+<!--Visual Design Portfolio-->
+	<h1 id="portfolio" align="center"><font face="helvetica" color="blue" size="5">
+			Visual Design Portfolio
+	</font></h1>
+   	<table width="90%" align="center"><tr>
+		<td align="center"><a href="1.jpg"><img src="1.jpg" height="250"></a></td>
+   		<td align="center"><a href="2.jpg"><img src="2.jpg" height="250"></a></td>
+		<td align="center"><a href="3.jpg"><img src="3.jpg" height="250"></a></td>
+   	</tr><tr>
+   		<td>Piece 1: In this piece I created a picture to help bring awareness to climate change. I made a collage of what climate change is doing to our earth, and put the “earth” in a person's hands to show that we have the earth in our hands so we should do something about climate change. 
+</td>
+   		<td>Piece 2: For this piece I took a picture of a cat and multiplied it over and over ,multiple times in different directions to make a kaleidoscope effect on the picture. 
+</td>
+   		<td>Piece 3: With this piece I created a volleyball player in pixel art. She's made to represent me during the volleyball season playing on a Junior Varsity team. 
+</td>
+   	</tr></table><br>
+
+<!--Link to the top-->
+	<h1 align="center">
+	 <a href="#top"><font face="courier" size="4">BACK TO THE TOP</font></a>
+	</h1>
+</body>
+</html>
