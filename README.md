@@ -37,14 +37,10 @@
 	</font></h1>
 	<font face="helvetica" color="black" size="3">
 		<ul>
-		    <li>My work experience includes Career Apprenticeship Program where I interned as a Main Office Assistant, Data & Attendance Coordinator, and Community School Intern.
-</li>
-		    <li>My Volunteer Experience includes Bulletin Board Decorating, Garbage pick up, and God’s Love we Deliver
-</li>
-		    <li>My Soft skills include communication skills, time management, problem solving, and empathy. 
-</li>
-		    <li>My Hard skills include spanish language, HTML, google slides, canva, and photoshop. 
-</li>    
+		    <li>My work experience includes Career Apprenticeship Program where I interned as a Main Office Assistant, Data & Attendance Coordinator, and Community School Intern.</li>
+		    <li>My Volunteer Experience includes Bulletin Board Decorating, Garbage pick up, and God’s Love we Deliver</li>
+		    <li>My Soft skills include communication skills, time management, problem solving, and empathy. </li>
+		    <li>My Hard skills include spanish language, HTML, google slides, canva, and photoshop. </li>    
 		</ul>
 	</font><br>
 	
