@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>[Rebecca Coder]</title>
+	<title>Catalina Morales</title>
 </head>
 <body background="1.jpg" bgcolor="white" link="blue" alink="blue" vlink="blue">
 
@@ -12,8 +12,8 @@
 			<a href="#about">ABOUT</a>&nbsp;&nbsp;&nbsp;
 			<a href="#experience">EXPERIENCE</a>&nbsp;&nbsp;&nbsp;
 			<a href="#interests">INTERESTS</a>&nbsp;&nbsp;&nbsp;
-			<a href="[URL]">[SOCIAL]</a>&nbsp;&nbsp;&nbsp;
-			<a href="[URL]">LINKEDIN</a>
+			<a href="https://www.linkedin.com/in/catalina-morales-/">[SOCIAL]</a>&nbsp;&nbsp;&nbsp;
+			<a href="https://www.linkedin.com/in/catalina-morales-/">LINKEDIN</a>
 	</b></font></h3><br>
 
 <!--Introduction with picture-->
