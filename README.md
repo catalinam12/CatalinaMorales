@@ -61,12 +61,9 @@
    		<td align="center"><a href="2.jpg"><img src="2.jpg" height="250"></a></td>
 		<td align="center"><a href="3.jpg"><img src="3.jpg" height="250"></a></td>
    	</tr><tr>
-   		<td>Piece 1: In this piece I created a picture to help bring awareness to climate change. I made a collage of what climate change is doing to our earth, and put the “earth” in a person's hands to show that we have the earth in our hands so we should do something about climate change. 
-</td>
-   		<td>Piece 2: For this piece I took a picture of a cat and multiplied it over and over ,multiple times in different directions to make a kaleidoscope effect on the picture. 
-</td>
-   		<td>Piece 3: With this piece I created a volleyball player in pixel art. She's made to represent me during the volleyball season playing on a Junior Varsity team. 
-</td>
+   		<td>Piece 1: In this piece I created a picture to help bring awareness to climate change. I made a collage of what climate change is doing to our earth, and put the “earth” in a person's hands to show that we have the earth in our hands so we should do something about climate change. </td>
+   		<td>Piece 2: For this piece I took a picture of a cat and multiplied it over and over ,multiple times in different directions to make a kaleidoscope effect on the picture. </td>
+   		<td>Piece 3: With this piece I created a volleyball player in pixel art. She's made to represent me during the volleyball season playing on a Junior Varsity team. </td>
    	</tr></table><br>
 
 <!--Link to the top-->
