@@ -28,7 +28,7 @@
 		About Me
 	</font></h1>
 	<font face="helvetica" color="black" size="3">
-		I am a high school senior from the Bronx, New York with a goal of going to college and getting a masters degree. Things that motivate me to do this is my family and personal drive considering I want the best for my future family.
+		<p> I am a high school senior from the Bronx, New York with a goal of going to college and getting a masters degree. Things that motivate me to do this is my family and personal drive considering I want the best for my future family.</p>
 	</font><br><br><br>
 
 <!--My Experience-->
